@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+title: "Yixin Liang, University of Toronto, Create Digital CV"
+date: 2021-03-30
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+For the professional development activity in my STA303 class, I choose to develop a digital CV because I believe this is useful for my future career. In order to make the website neat and clear, this website is powered by [Jekyll](http://jekyllrb.com). 
